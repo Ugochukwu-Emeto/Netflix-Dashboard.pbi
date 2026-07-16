@@ -1,7 +1,8 @@
 **#Ugochukwu Emeto - Netflix Dashboard.pbi**
 
 **Project Objective**
-To analyze Netflix's content library and identify trends in content distribution, genres, ratings, release years, and global availability, with the aim of understanding the platform's content strategy and supporting data-driven decision-making.
+To analyze Netflix's content library and identify trends in content distribution, genres, ratings, release years, 
+and global availability, with the aim of understanding the platform's content strategy and supporting data-driven decision-making.
 
 Dataset Used
 Netflix: netflix_titles.csv
@@ -39,5 +40,8 @@ Netflix: netflix_titles.csv
 10.he dashboard enables stakeholders to monitor content distribution, identify growth trends, and evaluate Netflix's global content strategy through data-driven insights.
 
 **Dashboard Summary**
-The Netflix catalogue spans 9K titles across 750 countries with 4.5K+ directors. Movies make up 66.7% of the library (6K) vs 3K TV Shows. The United States leads with 2,817 titles, followed by India (972). 
-Content additions peaked in 2017 at 727 titles before a strategic post-2018 decline. South Korea and Japan are emerging strongly in the TV Shows category.
+The Netflix catalogue spans 9K titles across 750 countries with 4.5K+ directors. 
+Movies make up 66.7% of the library (6K) vs 3K TV Shows. 
+The United States leads with 2,817 titles, followed by India (972). 
+Content additions peaked in 2017 at 727 titles before a strategic post-2018 decline. 
+South Korea and Japan are emerging strongly in the TV Shows category.
