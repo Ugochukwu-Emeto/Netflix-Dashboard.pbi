@@ -19,11 +19,11 @@ Datsaet
 10.Which directors have the highest number of titles on the platform?
 
 **Data Cleaning Steps:**
-✅ Capitalized each word across title, director, and country fields 
-✅ Trimmed and cleaned text to eliminate dirty data 
-✅ Renamed columns to match reporting standards 
-✅ Replaced values to handle nulls and inconsistent entries 
-✅ Changed data types for accurate filtering and aggregation 
+✅ Capitalized each word across title, director, and country fields. 
+✅ Trimmed and cleaned text to eliminate dirty data.
+✅ Renamed columns to match reporting standards. 
+✅ Replaced values to handle nulls and inconsistent entries. 
+✅ Changed data types for accurate filtering and aggregation. 
 ✅ Seperated Movies and TV shows in different columns.
 
 **Key Insights**
