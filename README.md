@@ -5,7 +5,7 @@ To analyze Netflix's content library and identify trends in content distribution
 and global availability, with the aim of understanding the platform's content strategy and supporting data-driven decision-making.
 
 Dataset Used
-Netflix: netflix_titles.csv
+Netflix: https://github.com/Ugochukwu-Emeto/Netflix-Dashboard.pbi/blob/a7feb0aa0399a668eb5118f6d419a7864127e1d4/netflix_titles.csv
 
 **Questions (KPIs)**
 1.How many titles are available on Netflix?
