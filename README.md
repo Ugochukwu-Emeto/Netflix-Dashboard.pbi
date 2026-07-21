@@ -48,14 +48,23 @@ Netflix: https://github.com/Ugochukwu-Emeto/Netflix-Dashboard.pbi/blob/a7feb0aa0
 **Key Insights.**
 
 1.Netflix's content library is dominated by movies, with approximately 6,000 movies compared to 3,000 TV shows, indicating a stronger focus on film content.
+
 2.The United States contributes the largest share of Netflix titles, making it the platform's primary content-producing country.
+
 3.Netflix experienced significant growth in content releases between 2017 and 2020, suggesting an aggressive expansion of its content library during this period.
+
 4.TV-MA and TV-14 are the most common content ratings, indicating that Netflix primarily targets mature and teenage audiences.
+
 5.Content is sourced from a wide range of countries, demonstrating Netflix's investment in a globally diverse content portfolio.
+
 6.A relatively small group of directors contributes multiple titles, while the majority of directors have only a few productions on the platform.
+
 7.The platform offers a broad mix of genres, reflecting Netflix's strategy of catering to diverse audience interests and preferences.
+
 8.Movies significantly outnumber TV shows, highlighting Netflix's emphasis on expanding its movie catalog while maintaining a substantial television offering.
+
 9.Interactive filtering by genre and month reveals seasonal and category-specific variations in content additions, helping users identify release trends over time.
+
 10.he dashboard enables stakeholders to monitor content distribution, identify growth trends, and evaluate Netflix's global content strategy through data-driven insights.
 
 **Dashboard Summary**
